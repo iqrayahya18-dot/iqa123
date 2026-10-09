@@ -1,0 +1,6 @@
+{
+  "name": "VELMORA BEAUTY",
+  "description": "Luxury beauty and skincare e-commerce website with 150+ products, multi-currency checkout, and complete multi-role management dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
